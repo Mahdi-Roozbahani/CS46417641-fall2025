@@ -1,0 +1,12 @@
+---
+people:
+  - 1:
+    name: "Max Mahdi Roozbahani"
+    email: mahdir@gatech.edu
+    picture: /profiles/mmr.png
+    web: https://mahdi-roozbahani.github.io/
+  - 1:
+    name: "Nimisha Roy"
+    email: nroy9@gatech.edu
+    picture: /profiles/nr.jpg
+    web: https://mahdi-roozbahani.github.io/    
