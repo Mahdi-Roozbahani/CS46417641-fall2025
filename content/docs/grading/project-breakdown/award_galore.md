@@ -15,15 +15,25 @@ This recognition also benefits students’ academic and professional growth—aw
 Below you will find awardees for each semester. The most recent semester is expanded by default, while previous semesters are collapsed for a cleaner browsing experience. Click on a specific semester to view its award recipients.
 
 <details close>
+<summary><strong>Project Awardees for Fall 2025</strong></summary>
+
+### Future Awardee Project Title
+- **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)  
+- **Contributors:** George Burdell, Max Mahdi Roozbahani, Alan Tao  
+
+### Future Awardee Project Title
+- **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)  
+- **Contributors:** George Burdell, Ethan Yang, Nimisha Roy  
+
+<!-- Add more projects here as needed, each in the same format -->
+
+</details>
+<details open>
 <summary><strong>Project Awardees for Summer 2025</strong></summary>
 
-### Future Awardee Project Title
-- **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)  
-- **Contributors:** George Burdell, Max Mahdi Roozbahani, Alan Tao  
-
-### Future Awardee Project Title
-- **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)  
-- **Contributors:** George Burdell, Max Mahdi Roozbahani, Alan Tao  
+### Inverse Kinematics Approximation Using Machine Learning
+- **Project Website:** [https://github.gatech.edu/pages/jmerrick6/InverseKinematics/FinalReport.html](https://github.gatech.edu/pages/jmerrick6/InverseKinematics/FinalReport.html) 
+- **Contributors:** Terry Barrigah, Joao Fonseca, Jackson Thomas Merrick, Anand Nagpurkar, Yash Tahiliani  
 
 <!-- Add more projects here as needed, each in the same format -->
 

@@ -47,7 +47,7 @@ The primary goal of the proposal is to identify a problem that can be solved wit
     ```
 
 ### Proposal Submission Requirements
-**1. Report:** The proposal report must be written on a website hosted with [GitHub Pages](https://pages.github.com/) or [Streamlit](https://docs.streamlit.io/deploy/streamlit-community-cloud/get-started/connect-your-github-account). The report must be less than 600 words, and sections (1) through (4) from above count towards this word limit. 
+**1. Report:** The proposal report must be written on a website hosted with [GitHub Pages](https://pages.github.com/). The report must be less than 800 words, and sections (1) through (4) from above count towards this word limit. 
 
 In addition to the [5 sections above](#proposal-sections--checklist), please include the following in your report:
 - ```✅Gantt Chart```: list each members’ planned responsibilities for the entirety of the project. Feel free to use the Fall and Spring semester [sample Gantt Chart](/other/GanttChart.xlsx).

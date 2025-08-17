@@ -6,7 +6,7 @@ title: "Project Breakdown"
 
 # Project Breakdown
 
-The project is worth 30% of your grade and will focus on applying machine learning algorithms and methods to real-world datasets to create meaningful insights and useful predictions. You will create a website with [GitHub Pages](https://pages.github.com/) or [Streamlit](https://docs.streamlit.io/deploy/streamlit-community-cloud/get-started/connect-your-github-account) for your project which will be used to publish three deliverables: a proposal (5%), a midterm checkpoint (10%), and a final report (15%).
+The project is worth 30% of your grade and will focus on applying machine learning algorithms and methods to real-world datasets to create meaningful insights and useful predictions. You will create a website with [GitHub Pages](https://pages.github.com/) for your project which will be used to publish three deliverables: a proposal (5%), a midterm checkpoint (10%), and a final report (15%).
 
 - CS 4641 students are required to use supervised learning. It is highly encouraged to use unsupervised learning methods as well.
 - CS 7641 students are required to use both unsupervised and supervised learning.

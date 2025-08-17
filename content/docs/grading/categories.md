@@ -71,13 +71,13 @@ This quiz will test you on the course deadlines and rules. You can simply obtain
 
 ## Quizzes (15%)
 
-There will be 13 quizzes throughout the semester (excluding syllabus quiz). Each quiz will be ~1.15% of your final score. **All quizzes are mandatory.** Quizzes are open notes and will be proctored using Honorlock. To take a quiz, you must have a stable broadband internet connection, a webcam, a microphone, a valid photo ID, and Chrome as your web browser. To ensure a smooth experience, please complete Quiz 0 (Practice Quiz) to familiarize yourself with the platform before your first graded quiz. Be sure to consult the [Honorlock Student Guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0026035) for important technical requirements. Remember, each quiz must be completed independently, without any assistance from others.
+There will be 14 quizzes throughout the semester (excluding syllabus quiz). Each quiz will be ~1.07% of your final score. **All quizzes are mandatory.** Quizzes are open notes and will be proctored using Honorlock. To take a quiz, you must have a stable broadband internet connection, a webcam, a microphone, a valid photo ID, and Chrome as your web browser. To ensure a smooth experience, please complete Quiz 0 (Practice Quiz) to familiarize yourself with the platform before your first graded quiz. Be sure to consult the [Honorlock Student Guide](https://gatech.service-now.com/home?id=kb_article_view&sysparm_article=KB0026035) for important technical requirements. Remember, each quiz must be completed independently, without any assistance from others.
 
 The topic of each quiz will coincide roughly with the content covered in class on that week.
 
-Quizzes will have a duration of seven-minutes for Undergrad students and six-minutes for Grad students. Each quiz will have five multiple choice questions . All quizzes will be released on Thursdays weekly at 6:00 pm EST and the deadlines will be on Sundays 23:59 EST. To check deadlines for Quizzes, ensure to check the class schedule table. Any possible changes on quizzes dates will be reflected on our course schedule page. Please make sure to check our class website before taking the quiz.
+Quizzes will have a duration of seven-minutes for Undergrad students and six-minutes for Grad students. Each quiz will have five multiple choice questions . All quizzes will be released on Fridays weekly at 5:00 pm EST and the deadlines will be on Mondays 23:59 EST. To check deadlines for Quizzes, ensure to check the class schedule table. Any possible changes on quizzes dates will be reflected on our course schedule page. Please make sure to check our class website before taking the quiz.
 
-Quizzes are due Sunday, but course staff is not guaranteed to be available during Saturday/Sunday. For this reason, we recommend taking the quiz by Friday so that any issues can be resolved quickly.
+Quizzes are due Monday. Course staff is not guaranteed to be available during Saturday/Sunday.
 
 Quizzes measure your understanding of the topics and they will be mostly conceptual questions.
 

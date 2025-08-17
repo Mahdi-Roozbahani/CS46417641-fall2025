@@ -35,7 +35,7 @@ The final report should present and compare at least 3 models that you have deve
 5. <u>References</u>: refer to guidance from the [proposal checklist](../proposal/#proposal-sections--checklist)
 
 ### Final Submission Requirements
-**1. Report:** The final report must be written on a website hosted with [GitHub Pages](https://pages.github.com/) or [Streamlit](https://docs.streamlit.io/deploy/streamlit-community-cloud/get-started/connect-your-github-account). There is no word limitation for this deliverable. Reuse your midterm report and make the necessary updates and/or additions.
+**1. Report:** The final report must be written on a website hosted with [GitHub Pages](https://pages.github.com/). There is no word limitation for this deliverable. Reuse your midterm report and make the necessary updates and/or additions.
 
 In addition to the [5 sections above](#final-sections--checklist), please include the following in your report:
 - ```✅Gantt Chart```: list each members’ planned responsibilities for the entirety of the project. Feel free to use the Fall and Spring semester [sample Gantt Chart](/other/GanttChart.xlsx).
