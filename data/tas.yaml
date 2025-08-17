@@ -55,6 +55,10 @@ people:
   name: Nawal Reza
   email: nreza7@gatech.edu
   picture: /profiles/nreza7.png
+- 30: 
+  name: Daniel Huang
+  email: dhuang324@gatech.edu
+  picture: /profiles/dhuang324.png  
 - 12: 
   name: Kevin K Park
   email: kpark373@gatech.edu
@@ -127,10 +131,6 @@ people:
   name: Maanas Baraya
   email: mbaraya3@gatech.edu
   picture: /profiles/mbaraya3.png
-- 30: 
-  name: Daniel Huang
-  email: dhuang324@gatech.edu
-  picture: /profiles/dhuang324.png
 - 31: 
   name: Mugdha Daftardar
   email: mdaftardar3@gatech.edu
