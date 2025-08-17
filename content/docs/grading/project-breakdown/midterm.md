@@ -35,7 +35,7 @@ This is a checkpoint to make sure that you have had major progress in your proje
 5. <u>References</u>: refer to guidance from the [proposal checklist](../proposal/#proposal-sections--checklist)
 
 ### Midterm Submission Requirements
-**1. Report:** The midterm report must be written on a website hosted with [GitHub Pages](https://pages.github.com/). There is no word limitation for this deliverable. Reuse your proposal and make necessary updates and/or additions.
+**1. Report:** The midterm report must be written on a website hosted with [GT GitHub Pages](https://pages.github.com/). There is no word limitation for this deliverable. Reuse your proposal and make necessary updates and/or additions.
 
 In addition to the [5 sections above](#midterm-sections--checklist), please include the following in your report:
 - ```✅Gantt Chart```: list each members’ planned responsibilities for the entirety of the project. Feel free to use the Fall and Spring semester [sample Gantt Chart](/other/GanttChart.xlsx).
