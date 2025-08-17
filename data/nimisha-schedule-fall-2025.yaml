@@ -4,8 +4,8 @@ tableRows:
     Week: 1
     Dates: "Aug 18-22"
     Topics:
-      - "[Course Overview](/course/01-introduction.pdf) (L1)"
-      - "[Data analysis toolbox - P1](/course/02-numpy_broadcasting_tutorial.ipynb) (L2)"
+      - "[Course Overview](/course/nimisha/01-introduction.pdf) (L1)"
+      - "[Data analysis toolbox - P1](/course/nimisha/02-numpy_broadcasting_tutorial.ipynb) (L2)"
     Quizzes: "Q0 - L1,2 (Warmup)"
     Readings:
       - "[GT Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code);"
@@ -23,8 +23,8 @@ tableRows:
     Week: 2
     Dates: "Aug 25-29"
     Topics:
-      - "[Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
-      - "[Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
+      - "[Linear Algebra](/course/nimisha/03-linear-algebra.pdf) ([Notes](/course/nimisha/03-linear-algebra-note.pdf), L3)"
+      - "[Prob and Stats](/course/nimisha/04-probability.pdf) ([Notes](/course/nimisha/04-probability-note.pdf), L4)"
     Quizzes: "Q1 - L3 & Syllabus Quiz"
     Readings:
       - "[Correlation vs Covariance](https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance);"
@@ -34,8 +34,8 @@ tableRows:
     Week: 3
     Dates: "Sep 1-5"
     Topics:
-      - "[Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L5)"
-      - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
+      - "[Prob and Stats - contd](/course/nimisha/04-probability.pdf) ([Notes](/course/nimisha/04-probability-note.pdf), L5)"
+      - "[Info Theory](/course/nimisha/05-info-theory.pdf) ([Notes](/course/nimisha/05-info-theory-note.pdf), L6)"
     Homework:
       - "A1 out Sep 2"
     Quizzes: "Q2 - L4,5"
@@ -50,8 +50,8 @@ tableRows:
     Week: 4
     Dates: "Sep 8-12"
     Topics:
-      - "[Info Theory - contd](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
-      - "[Optimization](/course/06-optimization.pdf) (L7)"
+      - "[Info Theory - contd](/course/nimisha/05-info-theory.pdf) ([Notes](/course/nimisha/05-info-theory-note.pdf), L6)"
+      - "[Optimization](/course/nimisha/06-optimization.pdf) (L7)"
     Quizzes: "Q3 - L6,7"
     Project:
       - "Project team composition due Sep 12"
@@ -66,8 +66,8 @@ tableRows:
     Week: 5
     Dates: "Sep 15-19"
     Topics:
-      - "[Toolbox - P2](/course/02-numpy_broadcasting_tutorial.ipynb) (L8)"    
-      - "[Clustering & K-Means](/course/08-clustering.pdf) ([Notes](/course/08-clustering-note.pdf) L9)"
+      - "[Toolbox - P2](/course/nimisha/02-numpy_broadcasting_tutorial.ipynb) (L8)"    
+      - "[Clustering & K-Means](/course/nimisha/08-clustering.pdf) ([Notes](/course/nimisha/08-clustering-note.pdf) L9)"
     Homework:
       - "**A1 due Sept-19**"
       - "A2 out Sept-19"
@@ -80,8 +80,8 @@ tableRows:
     Week: 6
     Dates: "Sep 22-26"
     Topics:
-      - "[GMM - Part 1](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L10)"    
-      - "[GMM - Part 2](/course/09-gaussian-mixture.pdf) ([Notes](/course/09-gaussian-mixture-note.pdf) L11)"
+      - "[GMM - Part 1](/course/nimisha/09-gaussian-mixture.pdf) ([Notes](/course/nimisha/09-gaussian-mixture-note.pdf) L10)"    
+      - "[GMM - Part 2](/course/nimisha/09-gaussian-mixture.pdf) ([Notes](/course/nimisha/09-gaussian-mixture-note.pdf) L11)"
       
     Quizzes: "Q5 - L10,11"
     Readings:
@@ -91,8 +91,8 @@ tableRows:
     Week: 7
     Dates: "Sep 29-Oct 3"
     Topics:
-      - "[Hierarchical Clustering](/course/10-hierarchical-clustering.pdf) ([Notes](/course/10-hierarchical-clustering-note.pdf) L12)"
-      - "[DB SCAN](/course/11-density-clustering.pdf) ([Notes](/course/11-density-clustering-note.pdf) L13)"
+      - "[Hierarchical Clustering](/course/nimisha/10-hierarchical-clustering.pdf) ([Notes](/course/nimisha/10-hierarchical-clustering-note.pdf) L12)"
+      - "[DB SCAN](/course/nimisha/11-density-clustering.pdf) ([Notes](/course/nimisha/11-density-clustering-note.pdf) L13)"
     Quizzes: "Q6 - L12,13"
     Project:
       - "Project proposal due Oct 3"
@@ -107,7 +107,7 @@ tableRows:
     Dates: "Oct 6-10" 
     Topics:
       - Fall Break (Oct 6-7)
-      - "[Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L14)" 
+      - "[Clustering Eval](/course/nimisha/12-clustering-evaluation.pdf) ([Notes](/course/nimisha/12-clustering-evaluation-note.pdf) L14)" 
     Quizzes: "Q7 - L14 (out 10/9 and same due as others)"
     Readings:
       - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
@@ -121,7 +121,7 @@ tableRows:
     Week: 9
     Dates: "Oct 13-17"
     Topics:
-      - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L15)"   
+      - "[Dimension Reduction](/course/nimisha/14-dimension-reduction.pdf) ([Notes](/course/nimisha/14-dimension-reduction-note.pdf) L15)"   
       - "In-Class Assessment on Vocareum"  
     Homework:
       - "**A2 due Oct 17**"
@@ -139,8 +139,8 @@ tableRows:
     Week: 10
     Dates: "Oct 20-24"
     Topics:
-      - "[Linear Regression](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L16)"
-      - "[LR contd](/course/15-linear-regression.pdf) ([Notes](/course/15-linear-regression-note.pdf) L17)"    
+      - "[Linear Regression](/course/nimisha/15-linear-regression.pdf) ([Notes](/course/nimisha/15-linear-regression-note.pdf) L16)"
+      - "[LR contd](/course/nimisha/15-linear-regression.pdf) ([Notes](/course/nimisha/15-linear-regression-note.pdf) L17)"    
     Quizzes: "Q9 - L16,17"
     Readings:
       - "[Simple Linear Regression in Matrix Format](/other/regression-cmu.pdf);"    
@@ -150,17 +150,17 @@ tableRows:
     Week: 11
     Dates: "Oct 27-31"
     Topics:
-      - "[Regularization](/course/16-regularized-regression.pdf) ([Notes](/course/16-regularized-regression-note.pdf) L18)"
-      - "[NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L19)"
+      - "[Regularization](/course/nimisha/16-regularized-regression.pdf) ([Notes](/course/nimisha/16-regularized-regression-note.pdf) L18)"
+      - "[NB &  Logistic Reg](/course/nimisha/17-logistic-regression.pdf) ([Notes](/course/nimisha/17-logistic-regression-note.pdf) L19)"
     Quizzes: "Q10 - L18"
 
   - 12:
     Week: 12
     Dates: "Nov 3-7"
     Topics:
-      - "[NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
-      - "[Project Practical Advice](/course/21-practical-advice.pdf)"
-      - "[Verizon Guest Lecture](/course/Industry-Insights-From-Verizon.pdf)"
+      - "[NB & Logistic Reg](/course/nimisha/17-logistic-regression.pdf) ([Notes](/course/nimisha/17-logistic-regression-note.pdf) L20)"
+      - "[Project Practical Advice](/course/nimisha/21-practical-advice.pdf)"
+      - "[Verizon Guest Lecture](/course/nimisha/Industry-Insights-From-Verizon.pdf)"
     Homework:
       - "**A3 due Nov 7**"
       - "A4 out Nov 7"      
@@ -173,8 +173,8 @@ tableRows:
     Week: 13
     Dates: "Nov 10-14"
     Topics:
-      - "[Neural Networks](/course/18-neural-network.pdf) ([Notes](/course/18-neural-network-note.pdf) L22)"
-      - "[CNN](/course/19-neural-network-cnn.pdf) ([Notes](/course/19-neural-network-cnn-note.pdf) L23)"
+      - "[Neural Networks](/course/nimisha/18-neural-network.pdf) ([Notes](/course/nimisha/18-neural-network-note.pdf) L22)"
+      - "[CNN](/course/nimisha/19-neural-network-cnn.pdf) ([Notes](/course/nimisha/19-neural-network-cnn-note.pdf) L23)"
     Quizzes: "Q12 - L22,23"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
@@ -187,8 +187,8 @@ tableRows:
     Week: 14
     Dates: "Nov 17-21"
     Topics:
-      - "[DT](/course/20-decision-tree.pdf) and [RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L24)"
-      - "[SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L25)"
+      - "[DT](/course/nimisha/20-decision-tree.pdf) and [RF](/course/nimisha/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/nimisha/20-decision-tree-note.pdf) & [RF](/course/nimisha/21-ensemble-learning-randomforest-note.pdf), L24)"
+      - "[SVM - Part 1](/course/nimisha/22-svm.pdf) ([Notes](/course/nimisha/22-svm-note.pdf), L25)"
     Quizzes: "Q13 - L24"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
@@ -201,7 +201,7 @@ tableRows:
     Week: 15
     Dates: "Nov 24-28"
     Topics:
-      - "[SVM - Part 2](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L26)"
+      - "[SVM - Part 2](/course/nimisha/22-svm.pdf) ([Notes](/course/nimisha/22-svm-note.pdf), L26)"
       - Student Recess and Thanksgiving break (Nov 27, 28 and 29)
     Homework:
     Quizzes: "Q14 - L25,26 (will be available till Dec 2 with no penalty)"
@@ -210,7 +210,7 @@ tableRows:
     Week: 16
     Dates: "Dec 1-5"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L27)"
+      - "[SVM-Kernel](/course/nimisha/23-svm-kernel.pdf) ([Notes](/course/nimisha/23-svm-kernel-note.pdf), L27)"
       - "Reading period (Dec 3-4)"
     Homework:
       - "**A4 Due Dec 2**"
