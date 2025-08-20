@@ -5,7 +5,7 @@ tableRows:
     Dates: "Aug 18-22"
     Topics:
       - "[*Course Overview](/course/01-introduction.pdf) (L1)"
-      - "[Data analysis toolbox - P1](/course/02-numpy_broadcasting_tutorial.ipynb) (L2)"
+      - "[*Data analysis toolbox - P1](/course/02-numpy_broadcasting_tutorial.ipynb) (L2)"
     Quizzes: "Q0 - L1,2 (Warmup)"
     Readings:
       - "[GT Honor Code](https://policylibrary.gatech.edu/student-affairs/academic-honor-code);"
