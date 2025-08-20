@@ -16,6 +16,6 @@ All deadline and due dates in this course will be at 23:59 EST.
 {{< hint warning >}}
 Scroll horizontally to see the full schedule table on mobile devices
 {{< /hint >}}
-Astericks (\*) indicate that the lecture slides/notes are available.
+<!--Astericks (\*) indicate that the lecture slides/notes are available.-->
 
 {{< schedule_table src="nimisha-schedule-fall-2025">}}
