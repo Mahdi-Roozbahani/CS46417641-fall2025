@@ -24,7 +24,7 @@ tableRows:
     Dates: "Aug 25-29"
     Topics:
       - "[*Linear Algebra](/course/03-linear-algebra.pdf) ([Notes](/course/03-linear-algebra-note.pdf), L3)"
-      - "[Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
+      - "[*Prob and Stats](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L4)"
     Quizzes: "Q1 - L3 & Syllabus Quiz"
     Readings:
       - "[Correlation vs Covariance](https://stats.stackexchange.com/questions/18082/how-would-you-explain-the-difference-between-correlation-and-covariance);"
@@ -34,7 +34,7 @@ tableRows:
     Week: 3
     Dates: "Sep 1-5"
     Topics:
-      - "[Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L5)"
+      - "[*Prob and Stats - contd](/course/04-probability.pdf) ([Notes](/course/04-probability-note.pdf), L5)"
       - "[Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
     Homework:
       - "A1 out Sep 2"
