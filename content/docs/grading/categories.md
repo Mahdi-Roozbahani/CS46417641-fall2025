@@ -63,7 +63,7 @@ We will hold an **in-class assessment** on Vocareum. The exam will focus on conc
 
 Check the separate project [breakdown page](/docs/grading/project-breakdown/) for more information on the components of the semester long project.
 
-**Note that** Project deliverables do not have any Penalized Acceptance Period (i.e. HWs) or Grace Period (i.e. Quizzes). For any due dates, please refer to the class schedule table. 
+**Note that** Project deliverables do not have any Penalized Acceptance Period (i.e. HWs) or Grace Period. For any due dates, please refer to the class schedule table. 
 
 ## Syllabus quiz (1%)
 
