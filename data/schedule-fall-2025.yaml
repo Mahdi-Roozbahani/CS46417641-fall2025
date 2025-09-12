@@ -35,7 +35,7 @@ tableRows:
     Dates: "Sep 1-5"
     Topics:
       - "[*Prob and Stats - contd](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L5)"
-      - "[*Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
+      - "[*Info Theory](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L6)"
     Homework:
       - "A1 out Sep 2"
     Quizzes: "Q2 - L4,5"
@@ -50,7 +50,7 @@ tableRows:
     Week: 4
     Dates: "Sep 8-12"
     Topics:
-      - "[*Info Theory - contd](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
+      - "[*Info Theory - contd](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L6)"
       - "[*Optimization](/course/06-optimization.pdf) (L7)"
     Quizzes: "Q3 - L6,7"
     Project:
