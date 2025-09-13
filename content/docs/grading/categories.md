@@ -51,9 +51,9 @@ All students are expected to follow the [Georgia Tech Academic Honor Code](http:
 
 You are **NOT allowed to share or discuss ANY assignment code, information or answers with other students**. Edstem is the best place to have discussion regarding assignments and course topics. Discussions can be on a whiteboard level with other students such as high level conceptual questions (i.e. what is independency in Naive Bayes model)
 
-## In-Class Assessment on Vocareum (10%)
+## In-Class Assessment on Canvas (10%)
 
-We will hold an **in-class assessment** on Vocareum. The exam will focus on conceptual questions, and **all students are required to take it**.
+We will hold an **in-class assessment** on Canvas. The exam will focus on conceptual questions, and **all students are required to take it**.
 
 - **No make-up exams under ANY circumstances:** If you miss the assessment, you will receive a zero, **no exceptions**.  
 - **Attend and engage:** Consistent, active participation in the class and on Ed throughout the semester will significantly boost your chances of earning a high score on the assessment.

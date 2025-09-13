@@ -35,7 +35,7 @@ tableRows:
     Dates: "Sep 1-5"
     Topics:
       - "[*Prob and Stats - contd](/course/04-probability.pdf) ([*Notes](/course/04-probability-note.pdf), L5)"
-      - "[*Info Theory](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
+      - "[*Info Theory](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L6)"
     Homework:
       - "A1 out Sep 2"
     Quizzes: "Q2 - L4,5"
@@ -50,9 +50,9 @@ tableRows:
     Week: 4
     Dates: "Sep 8-12"
     Topics:
-      - "[*Info Theory - contd](/course/05-info-theory.pdf) ([Notes](/course/05-info-theory-note.pdf), L6)"
+      - "[*Info Theory - contd](/course/05-info-theory.pdf) ([*Notes](/course/05-info-theory-note.pdf), L6)"
       - "[*Optimization](/course/06-optimization.pdf) (L7)"
-    Quizzes: "Q3 - L6,7"
+    Quizzes: "Q3 - L6 (CE and KL slides included)"
     Project:
       - "Project team composition due Sep 12"
     Readings:
@@ -71,7 +71,7 @@ tableRows:
     Homework:
       - "**A1 due Sept-19**"
       - "A2 out Sept-19"
-    Quizzes: "Q4 - L8,9"
+    Quizzes: "Q4 - L7,8,9"
     Readings:
       - "[Curse of dimensionality (Euclidean space example)](https://towardsdatascience.com/on-the-curse-of-dimensionality-b91a3a51268);"
       - "[Jupyter Notbook (Kmeans and DBSCAN)](/other/06-and-08-plot_dbscan.ipynb);"
@@ -122,7 +122,7 @@ tableRows:
     Dates: "Oct 13-17"
     Topics:
       - "[Dimension Reduction](/course/14-dimension-reduction.pdf) ([Notes](/course/14-dimension-reduction-note.pdf) L15)"   
-      - "In-Class Assessment on Vocareum"  
+      - "In-Class Assessment on Canvas"  
     Homework:
       - "**A2 due Oct 17**"
       - "A3 out Oct 17"
