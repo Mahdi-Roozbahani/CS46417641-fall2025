@@ -51,13 +51,8 @@ tableRows:
     Dates: "Sep 8-12"
     Topics:
       - "[Info Theory - contd](/course/nimisha/05-info-theory.pdf) ([Notes](/course/nimisha/05-info-theory-note.pdf), L6)"
-<<<<<<< HEAD
       - "[Optimization](/course/nimisha/06-optimization.pdf) ([Notes](/course/nimisha/06-optimization-note.pdf), L7)"
-    Quizzes: "Q3 - L6"
-=======
-      - "[Optimization](/course/nimisha/06-optimization.pdf) (L7)"
     Quizzes: "Q3 - L6 (CE and KL slides included)"
->>>>>>> b2b8576ca179096000c1fad82107d4a784bcc604
     Project:
       - "Project team composition due Sep 12"
     Readings:
