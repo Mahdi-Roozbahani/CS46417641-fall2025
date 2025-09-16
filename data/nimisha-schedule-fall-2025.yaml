@@ -66,7 +66,7 @@ tableRows:
     Week: 5
     Dates: "Sep 15-19"
     Topics:
-      - "[Toolbox - P2](/course/nimisha/02-numpy_broadcasting_tutorial.ipynb) (L8)"    
+      - "[Toolbox - P2](/course/nimisha/07-data_analysis_toolbox2.ipynb) (L8)"    
       - "[Clustering & K-Means](/course/nimisha/08-clustering.pdf) ([Notes](/course/nimisha/08-clustering-note.pdf) L9)"
     Homework:
       - "**A1 due Sept-19**"
