@@ -71,7 +71,7 @@ tableRows:
     Homework:
       - "**A1 due Sept-19**"
       - "A2 out Sept-19"
-    Quizzes: "Q4 - L7,8,9"
+    Quizzes: "Q4 - L7,L8 (includes toolbox 1),L9"
     Readings:
       - "[Curse of dimensionality (Euclidean space example)](https://towardsdatascience.com/on-the-curse-of-dimensionality-b91a3a51268);"
       - "[Jupyter Notbook (Kmeans and DBSCAN)](/other/06-and-08-plot_dbscan.ipynb);"
