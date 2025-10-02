@@ -96,7 +96,7 @@ tableRows:
     Quizzes: "Q6 - L12,13"
     Project:
       - "Project proposal due Oct 3"
-      - "Peer Evaluation Oct 3"
+      - "Peer Evaluation Out on Oct 3"
     Readings:
       - "[Understanding the concept of Hierarchical clustering Technique](https://towardsdatascience.com/understanding-the-concept-of-hierarchical-clustering-technique-c6e8243758ec);"
       - "[Dendrogram Visualization](https://www.data-to-viz.com/graph/dendrogram.html);"    
@@ -109,6 +109,8 @@ tableRows:
       - Fall Break (Oct 6-7)
       - "[Clustering Eval](/course/nimisha/12-clustering-evaluation.pdf) ([Notes](/course/nimisha/12-clustering-evaluation-note.pdf) L14)" 
     Quizzes: "Q7 - L14 (out 10/9 and same due as others)"
+    Project:
+      - "Peer Evaluation Due on Oct 10"
     Readings:
       - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
       - "[KDE sampling](https://stats.stackexchange.com/questions/321542/how-can-i-draw-a-value-randomly-from-a-kernel-density-estimate);"
@@ -159,8 +161,9 @@ tableRows:
     Dates: "Nov 3-7"
     Topics:
       - "[NB & Logistic Reg](/course/nimisha/17-logistic-regression.pdf) ([Notes](/course/nimisha/17-logistic-regression-note.pdf) L20)"
-      - "[Project Practical Advice](/course/nimisha/21-practical-advice.pdf)"
-      - "[Verizon Guest Lecture](/course/nimisha/Industry-Insights-From-Verizon.pdf)"
+      - No Lecture on Nov 7. Verizon Guest Lecture on Nov 6 (3 timeslots available)
+      - "[Project Practical Advice - please find the video on Canvas](/course/nimisha/21-practical-advice.pdf)"
+      - "[Verizon Guest Lecture (Optional attendance)- please find the video on Canvas](/course/nimisha/Industry-Insights-From-Verizon.pdf)"
     Homework:
       - "**A3 due Nov 7**"
       - "A4 out Nov 7"      
