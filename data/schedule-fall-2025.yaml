@@ -107,7 +107,7 @@ tableRows:
     Dates: "Oct 6-10" 
     Topics:
       - Fall Break (Oct 6-7)
-      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([Notes](/course/12-clustering-evaluation-note.pdf) L14)" 
+      - "[*Clustering Eval](/course/12-clustering-evaluation.pdf) ([*Notes](/course/12-clustering-evaluation-note.pdf) L14)" 
     Quizzes: "Q7 - L14 (out 10/9 and same due as others)"
     Readings:
       - "[KDE interactive visualization](https://mathisonian.github.io/kde/);"
