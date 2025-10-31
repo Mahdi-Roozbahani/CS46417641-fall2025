@@ -162,10 +162,7 @@ tableRows:
     Dates: "Nov 3-7"
     Topics:
       - "[NB & Logistic Reg](/course/nimisha/17-logistic-regression.pdf) ([Notes](/course/nimisha/17-logistic-regression-note.pdf) L20)"
-      - "[Project Practical Advice](/course/nimisha/21-practical-advice.pdf)"
-    Homework:
-      - "**A3 due Nov 7**"
-      - "A4 out Nov 7"      
+      - "[Project Practical Advice](/course/nimisha/21-practical-advice.pdf)"    
     Quizzes: "Q11 - L19,20"
     Project:
       - "Project midpoint report Nov 7"
@@ -177,6 +174,9 @@ tableRows:
     Topics:
       - "[Neural Networks](/course/nimisha/18-neural-network.pdf) ([Notes](/course/nimisha/18-neural-network-note.pdf) L22)"
       - "[CNN](/course/nimisha/19-neural-network-cnn.pdf) ([Notes](/course/nimisha/19-neural-network-cnn-note.pdf) L23)"
+    Homework:
+      - "**A3 due Nov 14**"
+      - "A4 out Nov 14"  
     Quizzes: "Q12 - L22,23"
     Readings:
       - "[NN Playground](https://playground.tensorflow.org/)"
