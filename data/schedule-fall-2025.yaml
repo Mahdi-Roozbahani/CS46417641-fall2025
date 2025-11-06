@@ -151,14 +151,14 @@ tableRows:
     Dates: "Oct 27-31"
     Topics:
       - "[*Regularization](/course/16-regularized-regression.pdf) ([*Notes](/course/16-regularized-regression-note.pdf) L18)"
-      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L19)"
+      - "[*NB &  Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L19)"
     Quizzes: "Q10 - L18"
 
   - 12:
     Week: 12
     Dates: "Nov 3-7"
     Topics:
-      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([Notes](/course/17-logistic-regression-note.pdf) L20)"
+      - "[*NB & Logistic Reg](/course/17-logistic-regression.pdf) ([*Notes](/course/17-logistic-regression-note.pdf) L20)"
       - "[*Project Practical Advice](/course/175-practical-advice.pdf)"
       - "[Verizon Guest Lecture (Cancelled due to recent changes in the Verizon team](/course/Industry-Insights-From-Verizon.pdf)"
     Homework:
