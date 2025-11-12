@@ -211,7 +211,7 @@ tableRows:
     Week: 16
     Dates: "Dec 1-5"
     Topics:
-      - "[SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L27)"
+      - "[*SVM-Kernel](/course/23-svm-kernel.pdf) ([Notes](/course/23-svm-kernel-note.pdf), L27)"
       - "Reading period (Dec 3-4)"
     Homework:
       - "**A4 Due Dec 2**"
