@@ -188,7 +188,7 @@ tableRows:
     Week: 14
     Dates: "Nov 17-21"
     Topics:
-      - "[*DT](/course/20-decision-tree.pdf) and [*RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L24)"
+      - "[*DT](/course/20-decision-tree.pdf) and [*RF](/course/21-ensemble-learning-randomforest.pdf) (Notes [*DT](/course/20-decision-tree-note.pdf) & [RF](/course/21-ensemble-learning-randomforest-note.pdf), L24)"
       - "[*SVM - Part 1](/course/22-svm.pdf) ([Notes](/course/22-svm-note.pdf), L25)"
     Quizzes: "Q13 - L24"
     Readings:
