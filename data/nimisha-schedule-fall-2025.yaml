@@ -190,7 +190,7 @@ tableRows:
     Dates: "Nov 17-21"
     Topics:
       - "[DT](/course/nimisha/20-decision-tree.pdf) and [RF](/course/nimisha/21-ensemble-learning-randomforest.pdf) (Notes [DT](/course/nimisha/20-decision-tree-note.pdf) & [RF](/course/nimisha/21-ensemble-learning-randomforest-note.pdf), L24)"
-      - "[SVM - Part 1](/course/nimisha/22-svm.pdf) ([Notes](/course/nimisha/22-svm-note.pdf), L25)"
+      - "[SVM](/course/nimisha/22-svm.pdf) ([Notes](/course/nimisha/22-svm-note.pdf), L25)"
     Quizzes: "Q13 - L24"
     Readings:
       - "[CNN Live Demo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html);"
@@ -203,7 +203,7 @@ tableRows:
     Week: 15
     Dates: "Nov 24-28"
     Topics:
-      - "[SVM - Part 2](/course/nimisha/22-svm.pdf) ([Notes](/course/nimisha/22-svm-note.pdf), L26)"
+      - "[SVM-Kernel- recorded video on Canvas](/course/nimisha/23-svm-kernel.pdf) ([Notes](/course/nimisha/23-svm-kernel-note.pdf), L26)"
       - Student Recess and Thanksgiving break (Nov 27, 28 and 29)
     Homework:
     Quizzes: "Q14 - L25,26 (will be available till Dec 2 with no penalty)"
@@ -212,7 +212,6 @@ tableRows:
     Week: 16
     Dates: "Dec 1-5"
     Topics:
-      - "[SVM-Kernel](/course/nimisha/23-svm-kernel.pdf) ([Notes](/course/nimisha/23-svm-kernel-note.pdf), L27)"
       - "Reading period (Dec 3-4)"
     Homework:
       - "**A4 Due Dec 2**"
