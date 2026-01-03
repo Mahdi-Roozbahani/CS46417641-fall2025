@@ -11,23 +11,46 @@ This recognition also benefits students’ academic and professional growth—aw
 
 
 
+<!-- # Project Awardees -->
+<!-- Below you will find awardees for each semester. The most recent semester is expanded by default, while previous semesters are collapsed for a cleaner browsing experience. Click on a specific semester to view its award recipients. -->
+
+<!-- <details close> -->
+<!-- <summary><strong>Project Awardees for Fall 2025</strong></summary> -->
+
+<!-- ### Future Awardee Project Title -->
+<!-- - **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)   -->
+<!-- - **Contributors:** George Burdell, Max Mahdi Roozbahani, Alan Tao   -->
+
+<!-- ### Future Awardee Project Title -->
+<!-- - **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)   -->
+<!-- - **Contributors:** George Burdell, Ethan Yang, Nimisha Roy   -->
+
 # Project Awardees
 Below you will find awardees for each semester. The most recent semester is expanded by default, while previous semesters are collapsed for a cleaner browsing experience. Click on a specific semester to view its award recipients.
 
-<details close>
+<details open>
 <summary><strong>Project Awardees for Fall 2025</strong></summary>
 
-### Future Awardee Project Title
-- **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)  
-- **Contributors:** George Burdell, Max Mahdi Roozbahani, Alan Tao  
+### Out-of-Stock Recommendation System
+- **Project Website:** [https://github.gatech.edu/pages/Group44-OOS-Recommendation/OOS-Product-Recommendation-Engine/](https://github.gatech.edu/pages/Group44-OOS-Recommendation/OOS-Product-Recommendation-Engine/)  
+- **Contributors:** Arihanth Jayavijayan, Riya Bharathwaj, Nirmal Francis Xavier, Malhar Jadhav  
 
-### Future Awardee Project Title
-- **Project Website:** [https://www.github.com/gburdell3/outstanding_project](https://www.github.com/gburdell3/outstanding_project)  
-- **Contributors:** George Burdell, Ethan Yang, Nimisha Roy  
+### Predicting Life Expectancy with Interpretative Machine Learning
+- **Project Website:** [https://github.gatech.edu/pages/frahman39/CS7641-Group38/](https://github.gatech.edu/pages/frahman39/CS7641-Group38/)  
+- **Contributors:** Amit Badoni, Allanda (Lonnie) Kriener, Tahsin nabi, Avinash Palliyil, Farhan Rahman  
+
+### invisiGAN 
+- **Project Website:** [https://github.gatech.edu/pages/jmaayah3/invisiGAN/](https://github.gatech.edu/pages/jmaayah3/invisiGAN/)  
+- **Contributors:** Jameel Maayah, Caleb Rieck, Srikar Satluri, Ajinkya Argonda, Anish Vallabhaneni
+
+### Wheel-Leg Robot Robust Locomotion through Deep Reinforcement Learning and Clustering
+- **Project Website:** [https://github.gatech.edu/pages/spolisetti6/ml-group-81/](https://github.gatech.edu/pages/spolisetti6/ml-group-81/)  
+- **Contributors:** Zimeng Chai	,Collin Agarwal, Sasanka Polisetti, Trent Doiron, Nathan Donagi		
 
 <!-- Add more projects here as needed, each in the same format -->
-
 </details>
+
+
 <details open>
 <summary><strong>Project Awardees for Summer 2025</strong></summary>
 
